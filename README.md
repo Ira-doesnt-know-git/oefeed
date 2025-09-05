@@ -51,3 +51,4 @@ Notes
 - Indexing uses simple heuristics to detect article-like links; you can refine `oefeed/scraper.py` for your sources.
 - Full-page fetching prefers Playwright; falls back to requests+BeautifulSoup.
 - Data is stored in SQLite at `data/oefeed.db`.
+- Only non-reasoning models are supported since I cba to clean reasoning tags.

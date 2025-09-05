@@ -1,0 +1,6 @@
+flask>=3.0
+beautifulsoup4>=4.12
+requests>=2.31
+playwright>=1.47
+apscheduler>=3.10
+
